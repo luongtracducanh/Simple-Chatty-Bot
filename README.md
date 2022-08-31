@@ -1,2 +1,2 @@
 # Simple-Chatty-Bot
-An easy project from the JavaScript for Beginners course on JetBrains Academy
+An easy project from the "JavaScript for Beginners" course on JetBrains Academy
